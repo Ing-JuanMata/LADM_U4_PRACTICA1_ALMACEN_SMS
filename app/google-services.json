@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170404074316",
+    "project_id": "ladm-u4-practica1-almacen-sms",
+    "storage_bucket": "ladm-u4-practica1-almacen-sms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170404074316:android:30942246f1a2cbb4e535e9",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica1_almacen_sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170404074316-fo1744ud56gd7ednhd1k0sg4gg9mr5aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzOrrSmSrZnsakq0arlBI-Y6JbyLkLjlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170404074316-fo1744ud56gd7ednhd1k0sg4gg9mr5aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
